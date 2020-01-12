@@ -1,0 +1,7 @@
+code and setup:
+
+https://circuitdigest.com/microcontroller-projects/arduino-ssd1306-oled-display
+
+
+text setup:
+https://www.instructables.com/id/Arduino-OLED-096-IIC-Serial-128X64-Display-Setting/
